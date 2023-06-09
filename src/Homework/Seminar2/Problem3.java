@@ -1,4 +1,4 @@
-package Seminars.Seminar3;
+package Homework.Seminar2;
 
 public class Problem3 {
 //    Дан следующий код, исправьте его там, где требуется (задание 3
